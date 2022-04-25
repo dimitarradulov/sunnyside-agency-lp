@@ -1,0 +1,25 @@
+{
+  "name": "sunnyside-agency-lp",
+  "version": "1.0.0",
+  "description": "",
+  "source": "./src/index.html",
+  "scripts": {
+    "dev": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitarradulov/sunnyside-agency-lp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimitarradulov/sunnyside-agency-lp/issues"
+  },
+  "homepage": "https://github.com/dimitarradulov/sunnyside-agency-lp#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "node-sass": "^7.0.1",
+    "parcel": "^2.5.0"
+  }
+}
